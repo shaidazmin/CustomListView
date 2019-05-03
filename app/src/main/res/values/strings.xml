@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Custom List View</string>
+    <string-array name="countryName">
+        <item>Afghanistan </item>
+        <item>Albania  </item>
+        <item>Algeria  </item>
+        <item>Andorran </item>
+        <item>Angola</item>
+        <item>Bahrain</item>
+        <item>Bangladesh  </item>
+        <item>Barbados </item>
+        <item>Belarus  </item>
+        <item>Belgium  </item>
+        <item>Cambodia </item>
+        <item>Cameroon  </item>
+        <item>Canada </item>
+    </string-array>
+
+
+</resources>
